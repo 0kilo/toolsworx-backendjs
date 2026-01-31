@@ -1,6 +1,6 @@
-# Unified Conversion Service
+# ToolsWorx Backend Conversion Service
 
-Single containerized backend service that handles all file conversions, media conversions, and filter operations.
+Single vanilla Javascript containerized backend service that handles all file conversions, media conversions, and filter operations.
 
 ## Features
 
